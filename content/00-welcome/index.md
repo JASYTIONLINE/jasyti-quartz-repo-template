@@ -6,7 +6,7 @@ tags:
 enableToc: true
 shortcode: "[idx]"
 ---
-###### [[#Section Contents|Navigation Section]]
+##### [[#Section Contents|Navigation Section]]
 # Welcome to the Welcome Center
 Say Hello
 

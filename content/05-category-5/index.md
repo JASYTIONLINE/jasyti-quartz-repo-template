@@ -1,8 +1,7 @@
 ---
-title: 5. Category 5
+title: 5. Category 5 - Home
 description: Category 5 Description
 tags:
-  - workbook-v3-2
 draft: false
 enableToc: true
 shortcode: "[idx]"

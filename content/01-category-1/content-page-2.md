@@ -1,5 +1,5 @@
 ---
-title: 01. Page Two Title
+title: 02. Content Page 2
 description: Category Description
 tags:
 draft: false

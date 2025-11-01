@@ -1,8 +1,8 @@
 ---
-title: 04. Category 24
+title: 04. Category 4 - Home
 description: Category 4 Description
 tags:
-  - workbook-v3-2
+  -
 draft: false
 enableToc: true
 shortcode: "[idx]"
